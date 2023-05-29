@@ -1,1 +1,92 @@
-﻿<?xml version="1.0" encoding="utf-8" ?> 
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ElectronicArchive>
+	<speciality ID="1" COURSE="IPZ">
+		<group GROUP="PI-21">
+			<student ID="1" 
+					 AUDITORY="307" 
+					 SURNAME="Zhevahin" 
+					 NAME="Andrii"
+					 PHONENUMBER="0975575274">
+			</student>
+			<student ID ="2"
+					 AUDITORY="411"
+					 SURNAME ="Olhovatiy"
+					 NAME ="Igor"
+					 PHONENUMBER ="380675528220">
+			</student>
+		</group>
+		<group GROUP="PI-22">
+			<student ID ="1"
+					 AUDITORY="122"
+					 SURNAME ="Avramenko"
+					 NAME="Vlad"
+					 PHONENUMBER ="380507865235">
+			</student>
+		</group>
+	</speciality>
+	<speciality ID="2" COURSE="INFORM">
+		<group GROUP="K-21">
+			<student ID="1" AUDITORY="307"
+					 SURNAME="Muska"
+					 NAME="Natalya"
+					 PHONENUMBER="380984481685">
+					 	
+			</student>
+			<student ID="2"
+					 AUDITORY="118"
+					 SURNAME="Barysh"
+					 NAME="Artem"
+					 PHONENUMBER="380935568976">
+				
+			</student>
+			<student ID="3"
+					 AUDITORY="307"
+					 SURNAME="Rybalchenko"
+					 NAME="Victor"
+					 PHONENUMBER="380981684539">
+				
+			</student>
+		</group>
+		<group GROUP="K-22">
+			<student ID="1"
+					 AUDITORY="122"
+					 SURNAME="Filipenkov"
+					 NAME="Illia"
+					 PHONENUMBER="380984456721"></student>
+			<student ID="2"
+					 AUDITORY="114"
+					 SURNAME="Hrygorovich"
+					 NAME="Oleh"
+					 PHONENUMBER="380534456983">
+				
+			</student>
+		</group>
+	</speciality>
+	<speciality ID="3" COURSE="ADDITIONAL MATHS">
+		<group GROUP="K-26">
+			<student ID="1" 
+					 AUDITORY="115"
+					 SURNAME="Astakhov"
+					 NAME="Maxym"
+					 PHONENUMBER="380956678325">
+				
+			</student>
+			<student ID="2"
+					 AUDITORY="114"
+					 SURNAME="Filimonov"
+					 NAME="Bohdan"
+					 PHONENUMBER="380974588322">
+			</student>
+			
+		</group>
+		<group GROUP="K-27">
+			<student ID="1"
+					 AUDITORY="123"
+					 SURNAME="Postoyenko"
+					 NAME="Yevhen"
+					 PHONENUMBER="380954355762">
+				
+			</student>
+		</group>
+	</speciality>
+</ElectronicArchive>
