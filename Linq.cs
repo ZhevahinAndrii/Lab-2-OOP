@@ -34,7 +34,7 @@ namespace Lab2
                 paperwork.Auditory = obj.Attribute("AUDITORY").Value;
                 paperwork.Surname = obj.Attribute("SURNAME").Value;
                 paperwork.Name = obj.Attribute("NAME").Value;
-                paperwork.PhoneNumber = obj.Attribute("AMOUNT").Value;
+                paperwork.PhoneNumber = obj.Attribute("PHONENUMBER").Value;
                 information.Add(paperwork);
             }
             return information;
